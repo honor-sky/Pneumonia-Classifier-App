@@ -3,9 +3,9 @@
 
 
 ## Pneumonia_Classifier_APP
-#### - app-src-main-java-MainActivity.java (자바 코드)
-#### - - app-src-main-res-layout (xml 코드)
-#### app-src-main-res-drawable (view 커스텀 코드)
+####  app-src-main-java-MainActivity.java (자바 코드)
+####  app-src-main-res-layout (xml 코드)
+####  app-src-main-res-drawable (view 커스텀 코드)
 
 
 ## Pneumonia_Classifier_Model
